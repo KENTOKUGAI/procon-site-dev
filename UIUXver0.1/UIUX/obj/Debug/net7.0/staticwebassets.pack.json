@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Kento\\source\\repos\\UIUX\\UIUX\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Kento\\source\\repos\\UIUX\\UIUX\\wwwroot\\images\\10.png",
+      "PackagePath": "staticwebassets\\images\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Kento\\source\\repos\\UIUX\\UIUX\\wwwroot\\images\\11.png",
+      "PackagePath": "staticwebassets\\images\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Kento\\source\\repos\\UIUX\\UIUX\\wwwroot\\images\\12.png",
+      "PackagePath": "staticwebassets\\images\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Kento\\source\\repos\\UIUX\\UIUX\\wwwroot\\images\\13.png",
+      "PackagePath": "staticwebassets\\images\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Kento\\source\\repos\\UIUX\\UIUX\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Kento\\source\\repos\\UIUX\\UIUX\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Kento\\source\\repos\\UIUX\\UIUX\\wwwroot\\images\\4.png",
+      "PackagePath": "staticwebassets\\images\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Kento\\source\\repos\\UIUX\\UIUX\\wwwroot\\images\\5.png",
+      "PackagePath": "staticwebassets\\images\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Kento\\source\\repos\\UIUX\\UIUX\\wwwroot\\images\\6.png",
+      "PackagePath": "staticwebassets\\images\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Kento\\source\\repos\\UIUX\\UIUX\\wwwroot\\images\\7.png",
+      "PackagePath": "staticwebassets\\images\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Kento\\source\\repos\\UIUX\\UIUX\\wwwroot\\images\\8.png",
+      "PackagePath": "staticwebassets\\images\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Kento\\source\\repos\\UIUX\\UIUX\\wwwroot\\images\\9.png",
+      "PackagePath": "staticwebassets\\images\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Kento\\source\\repos\\UIUX\\UIUX\\wwwroot\\season.html",
+      "PackagePath": "staticwebassets\\season.html"
+    },
+    {
+      "Id": "C:\\Users\\Kento\\source\\repos\\UIUX\\UIUX\\wwwroot\\static.html",
+      "PackagePath": "staticwebassets\\static.html"
+    },
+    {
+      "Id": "C:\\Users\\Kento\\source\\repos\\UIUX\\UIUX\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.UIUX.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.UIUX.props",
+      "PackagePath": "build\\UIUX.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.UIUX.props",
+      "PackagePath": "buildMultiTargeting\\UIUX.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.UIUX.props",
+      "PackagePath": "buildTransitive\\UIUX.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
